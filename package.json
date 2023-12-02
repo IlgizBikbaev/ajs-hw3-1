@@ -1,0 +1,15 @@
+{
+  "name": "ajs-hw3-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IlgizBikbaev",
+  "license": "ISC",
+  "dependencies": {
+    "@ilgizbikbaev/ajs-hw3": "^1.0.0"
+  }
+}
